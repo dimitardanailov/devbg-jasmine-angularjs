@@ -16,7 +16,7 @@
       {
         state: 'people',
         config: {
-          url: '/',
+          url: '/people',
           templateUrl: 'app/people/people.html',
           controller: 'PeopleController',
           controllerAs: 'vm',
